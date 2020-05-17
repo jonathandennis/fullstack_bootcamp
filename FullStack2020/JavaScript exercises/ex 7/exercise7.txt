@@ -1,0 +1,39 @@
+// Create an object and an array which we will use in our facebook exercise. 
+
+// 1. Create an object that has properties "username" and "password". Fill those values in with strings.
+{
+    username: "jdennis111",
+    password: "1234"
+}
+
+
+// 2. Create an array which contains the object you have made above and name the array "database".
+
+var = database [
+    {
+    username: "jdennis111",
+    password: "1234"
+    }
+];
+
+// 3. Create an array called "newsfeed" which contains 3 objects with properties "username" and "timeline".
+
+var = newsFeed [
+    {
+        username: "Bobby",
+        timeline: "So tired from all that learning!"
+    },
+    {
+        username: "Sally",
+        timeline: "Javascript is sooooo cool!"
+    },
+    {
+        username: "jdennis111",
+        timeline: "Javascript is preeetyy cool!"
+    }
+];
+
+var userNamePrompt = prompt("What's your username?");
+var passwordPrompt = prompt("What's your password?");
+
+
